@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-shyam30Oct
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: acc7fc05-e77d-455d-9ce3-ad6d76bf2335
+  SUBSCRIPTION-ID: aac7fc05-e77d-455d-9ce3-ad6d76bf2335
   WEBAPP-NAME: eshoponweb-webapp-shyam30oct
 
 
